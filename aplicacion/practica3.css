@@ -1,0 +1,59 @@
+body
+{
+	background-image:url("tr.jpg");
+	background-size: 100%;
+	object-fit: cover;
+	
+}
+
+
+
+#div1
+{
+	margin: auto;
+	width: 60%;
+	padding: 0;
+	border-radius: 40px;
+	border-style: solid;
+	border-width: thin;
+	border: 0px solid;
+	background-color: transparent;
+}
+#div2
+{
+    margin: auto;
+	width: 650px;
+	padding: 0;
+	border-radius: 40px;
+	background-color: rgba(0, 0, 0, 0.5) ;
+	text-align: center;
+}
+img
+{
+	width: 250px;
+	height: 250px;
+}
+#div3
+{
+	
+	margin: auto;
+	width: 500px;
+	height:400px;
+	background-color: transparent;
+	padding: 5px;
+	border-width: thin;
+	border: 1px;
+	text-align: center; 
+	color:white;
+}
+
+.btn
+{
+    margin: 17px 10px;
+    text-align: center;
+     border-radius:20px ;
+
+     cursor: pointer;
+     background-color: rgb(255 103 25);
+
+}

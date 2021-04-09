@@ -1,0 +1,62 @@
+body
+{
+	background-image:url("tr.jpg");
+	background-size: 100%;
+	object-fit: cover;
+	
+}
+
+
+
+#div1
+{
+	margin: auto;
+	width: 60%;
+	padding: 0;
+	border-radius: 40px;
+	border-style: solid;
+	border-width: thin;
+	border: 0px solid;
+	background-color: transparent;
+}
+#div2
+{
+	width: 80%;
+	margin: 0 auto;
+	padding: 0;
+	border-radius: 40px;
+	background-color: rgba(8, 8, 8, 0.5) ;
+	text-align: center;
+}
+img
+{
+	width: 250px;
+	height: 250px;
+}
+#div3
+{
+	
+	margin: auto;
+	width: 70%;
+	height:100%;
+	background-color: transparent;
+	font-size: 21px;
+	padding: 5px;
+	border-width: thin;
+	border: 1px;
+	text-align: center; 
+	color:white;
+}
+.lgris
+{
+	color:aquamarine;
+}
+.formulario
+{
+	color:rgb(238, 241, 237);
+}
+
+
+
+
+
